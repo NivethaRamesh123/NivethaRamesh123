@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Nivetha
 
-<!--
-**NivethaRamesh123/NivethaRamesh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java Developer with 1 year of experience. I build clean, functional Java applications with a focus on backend development using
+Spring Boot, REST APIs, and databases.
 
-Here are some ideas to get you started:
+## 💼 Tech Stack
+- Java, Spring Boot ,Microservices
+- MySQL, PostgreSQL
+- RESTful APIs
+- Git & GitHub
+- Maven & Gradle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Me
+- 📧 Email: nivetharamesh030201@gmail.com
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
