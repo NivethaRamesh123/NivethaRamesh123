@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nivetha
 
-I'm a Java Developer with 1 year of experience. I build clean, functional Java applications with a focus on backend development using
+I'm a Java Developer with 1.2 year of experience. I build clean, functional Java applications with a focus on backend development using
 Spring Boot, REST APIs, and databases.
 
 ## 💼 Tech Stack
